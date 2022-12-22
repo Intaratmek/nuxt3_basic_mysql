@@ -1,0 +1,1 @@
+# nuxt3_basic_mysql
