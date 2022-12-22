@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Thasadith-Regular";
+  src: url("~/assets/css/Thasadith-Regular.ttf") format("truetype");
+  font-display: swap;
+}
+
+* {
+  font-family: "Thasadith-Regular";
+  scrollbar-width: none;
+  scrollbar-width: thin;
+  scrollbar-color: #fff;
+}
+
+::-webkit-scrollbar {
+  width: 0.4em;
+  height: 0.4em;
+}
+*::-webkit-scrollbar-thumb {
+  background-color: #b1b1b1;
+
+  border-radius: 20px;
+  /*
+  border: 3px solid #ffffff;
+  */
+}
+
+/*
+* {
+    overflow: hidden;
+}
+*/
+.page-enter-active,
+.page-leave-active {
+  opacity: 0;
+}
+.page-enter-from,
+.page-leave-to {
+  transition: all 0.1s;
+}

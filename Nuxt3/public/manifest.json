@@ -1,0 +1,56 @@
+{
+  "name": "Nuxt3 Baisc",
+  "short_name": "Nuxt3 Baisc",
+  "description": "Nuxt3 Baisc App",
+  "icons": [
+    {
+      "src": "/icons/icon_64x64.324cbb.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon_120x120.324cbb.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon_144x144.324cbb.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon_152x152.324cbb.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon_192x192.324cbb.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon_384x384.324cbb.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon_512x512.324cbb.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "#FFFFFF",
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": true
+}
